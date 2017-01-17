@@ -38,7 +38,7 @@ image:
 
 ## Posters, talks, and abstracts 
 
-* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema [2016 - accepted abstract]. Reward and salience determine the precision of working memory encoding with different time-courses. Poster presentation at the Society for Neuroscience, November 12 - 16, 2016, San Diego, CA, USA.
+* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2016). Reward and salience determine the precision of working memory encoding with different time-courses. Poster presentation at the Society for Neuroscience, November 12 - 16, 2016, San Diego, CA, USA.
 
 * D. Jeurissen (2016). Flexible routing of information through specialized networks in the brain. Talk at the Simons Foundation Annual Meeting, September 11 - 13, New York, NY, USA.
 
