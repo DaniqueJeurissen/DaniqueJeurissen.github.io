@@ -10,6 +10,9 @@ image:
 
 ## Journal publications - published 
 
+
+* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017 - _in press_). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. _Scientific Reports_
+
 * D. Jeurissen, M.W. Self, and P.R. Roelfsema (2016). Serial grouping of 2D-image regions with object-based attention in humans. _eLife_,  5, e14320. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/content/5/e14320-download.pdf)
 
 * M.W. Self\*, J.C. Peters\*, J.K. Possel\*, J. Reithler, R. Goebel, P. Ris, D. Jeurissen, L. Reddy, S. Claus, J.C. Baayen, and P.R. Roelfsema (2016). The effects of context and attention on spiking activity in human early visual cortex. _PLoS Biology_, 14(3), e1002420. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2016_Self_PlosBiology.pdf)
@@ -31,8 +34,6 @@ image:
 * M.W. Self\*, D. Jeurissen\*, A.F. Van Ham, B. Van Vugt, J. Poort, and P.R. Roelfsema. The segmentation of objects in monkey primary visual cortex.
 
 * D. Vartak, D. Jeurissen, M.W. Self, and P.R. Roelfsema. The influence of attention and reward on the learning of new stimulus-response associations. 
-
-* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema. Working memory fidelity for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. 
 
 ---
 
