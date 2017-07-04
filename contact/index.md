@@ -22,5 +22,4 @@ New York, NY 10032
 
 Phone: +1 212-305-4510
 
-Email: [jjj2132@columbia.edu](mailto:jjj2132@columbia.edu)
-
+Email: [d.jeurissen@columbia.edu](mailto:d.jeurissen@columbia.edu)
