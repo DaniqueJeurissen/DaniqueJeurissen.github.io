@@ -29,18 +29,18 @@ owner:
   name: Danique Jeurissen
   avatar: danique.jpg
   bio: Neuroscientist
-  email: jjj2132@columbia.edu
-  disqus-shortname: 
+  email: d.jeurissen@columbia.edu
+  disqus-shortname:
   twitter: #
   facebook: #
   google:
     plus:
     analytics: UA-84651979-1
     scholar: 6GDfcqEAAAAJ  # not supported by jekyll?
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: #
   stackoverflow: #
   linkedin: #
