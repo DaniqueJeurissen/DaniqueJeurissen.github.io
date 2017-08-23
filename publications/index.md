@@ -10,9 +10,9 @@ image:
 
 ## Journal publications - published
 
-* D. Vartak, D. Jeurissen, M.W. Self, and P.R. Roelfsema (2017 - _in press_). The influence of attention and reward on the learning of new stimulus-response associations. _Scientific Reports_
+* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017 - _in press_). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. _Scientific Reports_, 7(9082), 1-13. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Klink_ScientificReports.pdf)
 
-* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017 - _in press_). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. _Scientific Reports_
+* D. Vartak, D. Jeurissen, M.W. Self, and P.R. Roelfsema (2017 - _in press_). The influence of attention and reward on the learning of new stimulus-response associations. _Scientific Reports_, 7(9036), 1-12. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Vartak_ScientificReports.pdf)
 
 * D. Jeurissen, M.W. Self, and P.R. Roelfsema (2016). Serial grouping of 2D-image regions with object-based attention in humans. _eLife_,  5, e14320. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/content/5/e14320-download.pdf)
 
