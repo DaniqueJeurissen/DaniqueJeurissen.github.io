@@ -10,6 +10,8 @@ image:
 
 ## Journal publications - published
 
+* C.R. Fetsch, N.N. Odean, D. Jeurissen, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. _BioRxiv_, DOI:https://doi.org/10.1101/277251. <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/early/2018/03/06/277251)
+
 * P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. _Scientific Reports_, 7(9082), 1-13. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Klink_ScientificReports.pdf)
 
 * D. Vartak, D. Jeurissen, M.W. Self, and P.R. Roelfsema (2017). The influence of attention and reward on the learning of new stimulus-response associations. _Scientific Reports_, 7(9036), 1-12. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Vartak_ScientificReports.pdf)

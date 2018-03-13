@@ -14,12 +14,12 @@ Department of Neuroscience
 
 Mail: c/o Shadlen lab
 
-630 West 168th Street
+Zuckerman Mind, Brain, and Behavior Institute
 
-P&S Building Room 16-408
+Jerome L. Greene Science Center
+
+3227 Broadway, L5, Quad 5A
 
 New York, NY 10032
-
-Phone: +1 212-305-4510
 
 Email: [d.jeurissen@columbia.edu](mailto:d.jeurissen@columbia.edu)
