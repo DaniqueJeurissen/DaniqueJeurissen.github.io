@@ -48,7 +48,7 @@ Department of Psychology and Neuroscience, Maastricht, the Netherlands<br/><br/>
 
 ## Research grants
 
-**06/2018 -	05/2019: Research Grant**
+**06/2018 -	05/2019: Research Grant**<br/>
 _Title:_ Using chemogenetics to model cognitive deficits of Alzheimer's disease in primates<br/>
 _Funding program:_ Alzheimer's Disease Research Center (ADRC), Taub Institute<br/>
 _PI:_ Michael N. Shadlen<br/>
