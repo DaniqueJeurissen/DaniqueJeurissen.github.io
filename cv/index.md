@@ -11,8 +11,8 @@ image:
 
 ## Position
 
-#### 07/2016 - present: Columbia University, Postdoctoral fellow
-#### 08/2015 - 06/2016: Columbia University, Research associate
+**07/2016 - present: Columbia University, Postdoctoral fellow**<br/>
+**08/2015 - 06/2016: Columbia University, Research associate**<br/>
 Department of Neuroscience<br/>
 New York, NY, USA<br/>
 _Advisor:_ Prof. Michael N. Shadlen<br/>
@@ -25,7 +25,7 @@ _Fellowship:_ Simons Foundation<br/>
 
 ## Education
 
-#### 12/2010 - 07/2015: Netherlands Institute for Neuroscience, PhD degree
+**12/2010 - 07/2015: Netherlands Institute for Neuroscience, PhD degree**<br/>
 Royal Netherlands Academy of Arts and Sciences<br/>
 Department of Vision and Cognition, Amsterdam, the Netherlands<br/>
 _Thesis:_ Perceptual grouping of complex objects in the primate visual system<br/>
@@ -33,20 +33,20 @@ _Degree:_ March 10, 2016; VU University, Amsterdam, the Netherlands
 _Advisor:_ Prof. Pieter R. Roelfsema<br/>
 _Co-advisor:_ Dr. Matthew W. Self<br/>
 
-#### 08/2010 - 11/2010: University of California San Diego (UCSD), Research internship
+**08/2010 - 11/2010: University of California San Diego (UCSD), Research internship**<br/>
 Center for Brain and Cognition, San Diego, CA, USA<br/>
 
 
-#### 01/2010 - 07/2010: Harvard Medical School, Research internship
+**01/2010 - 07/2010: Harvard Medical School, Research internship**<br/>
 B.-A. Center for Noninvasive Brain Stimulation, Boston, MA, USA<br/>
 
-#### 09/2008 - 08/2010: Maastricht University, MSc degree, Graduated _Cum Laude_
+**09/2008 - 08/2010: Maastricht University, MSc degree, Graduated _Cum Laude_**<br/>
 Department of Psychology and Neuroscience, Maastricht, the Netherlands<br/>
 
-#### 01/2008 - 06/2008: University of California, Los Angeles (UCLA), Graduate and undergraduate courses
+**01/2008 - 06/2008: University of California, Los Angeles (UCLA), Graduate and undergraduate courses**<br/>
 Department of Psychology, Los Angeles, CA, USA<br/>
 
-#### 09/2005 - 08/2008: Maastricht University, BSc degree
+**09/2005 - 08/2008: Maastricht University, BSc degree**<br/>
 Department of Psychology and Neuroscience, Maastricht, the Netherlands<br/>
 
 
