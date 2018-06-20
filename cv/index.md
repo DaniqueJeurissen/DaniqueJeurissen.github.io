@@ -29,7 +29,7 @@ _Fellowship:_ Simons Foundation<br/>
 Royal Netherlands Academy of Arts and Sciences<br/>
 Department of Vision and Cognition, Amsterdam, the Netherlands<br/>
 _Thesis:_ Perceptual grouping of complex objects in the primate visual system<br/>
-_Degree:_ March 10, 2016; VU University, Amsterdam, the Netherlands
+_Degree:_ March 10, 2016; VU University, Amsterdam, the Netherlands<br/>
 _Advisor:_ Prof. Pieter R. Roelfsema<br/>
 _Co-advisor:_ Dr. Matthew W. Self<br/><br/>
 **08/2010 - 11/2010: University of California San Diego (UCSD), Research internship**<br/>
