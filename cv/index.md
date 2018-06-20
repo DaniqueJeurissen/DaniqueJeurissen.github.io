@@ -58,6 +58,13 @@ Department of Psychology and Neuroscience, Maastricht, the Netherlands<br/>
 
 ## Research grants
 
+#### 06/2018 -	05/2019: Research Grant
+_Title:_ Using chemogenetics to model cognitive deficits of Alzheimer's disease in primates<br/>
+_Funding program:_ Alzheimer's Disease Research Center (ADRC), Taub Institute<br/>
+_PI:_ Michael N. Shadlen<br/>
+_Co-PIs:_  Danique Jeurissen and S. Shushruth<br/>
+_Amount:_ 50k$<br/>
+
 #### 07/2016 -	06/2019: Postdoctoral fellowship
 _Title:_ Flexible routing of information through specialized networks in the brain<br/>
 _Funding agency:_ Simons Foundation<br/>
@@ -88,7 +95,3 @@ _Amount:_ 234k$<br/>
 
 
 ---
-
-
-
-
