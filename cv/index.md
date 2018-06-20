@@ -12,13 +12,13 @@ image:
 ## Position
 
 #### 07/2016 - present: Columbia University, Postdoctoral fellow
+#### 08/2015 - 06/2016: Columbia University, Research associate
 Department of Neuroscience<br/>
 New York, NY, USA<br/>
 _Advisor:_ Prof. Michael N. Shadlen<br/>
 _Co-advisor:_ Prof. Doris Y. Tsao (Caltech)<br/>
 _Fellowship:_ Simons Foundation<br/>
 
-#### 08/2015 - 06/2016: Columbia University, Research associate
 
 
 ---
