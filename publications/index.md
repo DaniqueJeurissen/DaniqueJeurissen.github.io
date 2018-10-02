@@ -10,7 +10,7 @@ image:
 
 ## Journal publications - published
 
-* C.R. Fetsch, N.N. Odean, D. Jeurissen, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. _eLife_,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D), (Similar to: _BioRxiv_, DOI:https://doi.org/10.1101/277251).
+* C.R. Fetsch, N.N. Odean, D. Jeurissen, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. _eLife_,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D) (Similar to: _BioRxiv_, DOI:https://doi.org/10.1101/277251).
 
 * P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. _Scientific Reports_, 7(9082), 1-13. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Klink_ScientificReports.pdf)
 
@@ -39,6 +39,8 @@ image:
 ---
 
 ## Posters, talks, and abstracts
+
+* D. Jeurissen, Y.H.R. Kang, and M.N. Shadlen (2018). Serial integration of two sensory sources of information for a single perceptual decision. Poster presentation at the Simons Foundation annual meeting, September 5 - 7, 2018, New York, NY, USA.
 
 * P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2016). Reward and salience determine the precision of working memory encoding with different time-courses. Poster presentation at the Society for Neuroscience, November 12 - 16, 2016, San Diego, CA, USA.
 
