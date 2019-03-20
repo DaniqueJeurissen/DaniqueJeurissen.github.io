@@ -9,6 +9,7 @@ image:
 \* Equal contribution / co-first author
 
 ## Journal publications - published
+* M.W. Self\*, D. Jeurissen\*, A.F. van Ham, B. van Vugt, J. Poort, and P.R. Roelfsema (2019). The segmentation of proto-objects in the monkey primary visual cortex. _Current Biology_, 29, 1019-1029. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2019_SelfJeurissen_CurrBio.pdf)
 
 * C.R. Fetsch, N.N. Odean, D. Jeurissen, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. _eLife_,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D) (Similar to: _BioRxiv_, DOI:https://doi.org/10.1101/277251).
 
@@ -29,12 +30,6 @@ image:
 * D. Jeurissen, M.W. Self, and P.R. Roelfsema (2013). Surface reconstruction, figure-ground modulation, and border-ownership. _Cognitive Neuroscience_, 4(1), 50-52. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2013_JeurissenSelfRoelfsema_CognitiveNeuroscience.pdf)
 
 * I. Korjoukov, D. Jeurissen, N.A. Kloosterman, J.E. Verhoeven, H.S. Scholte, and P.R. Roelfsema (2012). The time-course of perceptual grouping in natural scenes. _Psychological Science_, 23(12), 1-8. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2012_KorjoukovJeurissenRoelfsema_PsychScience_complete.pdf)
-
----
-
-## Journal publications - submitted / in preparation
-
-* M.W. Self\*, D. Jeurissen\*, A.F. Van Ham, B. Van Vugt, J. Poort, and P.R. Roelfsema. The segmentation of proto-objects in monkey primary visual cortex (in revision).
 
 ---
 
