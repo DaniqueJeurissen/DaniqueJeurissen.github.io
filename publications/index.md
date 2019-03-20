@@ -6,30 +6,29 @@ image:
   feature: Background.jpg
 ---
 
-\* Equal contribution / co-first author
-
 ## Journal publications - published
-* M.W. Self\*, D. Jeurissen\*, A.F. van Ham, B. van Vugt, J. Poort, and P.R. Roelfsema (2019). The segmentation of proto-objects in the monkey primary visual cortex. _Current Biology_, 29, 1019-1029. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2019_SelfJeurissen_CurrBio.pdf)
+* M.W. Self**\***, D. Jeurissen**\***, A.F. van Ham, B. van Vugt, J. Poort, and P.R. Roelfsema (2019). The segmentation of proto-objects in the monkey primary visual cortex. **_Current Biology_**, 29, 1019-1029. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2019_SelfJeurissen_CurrBio.pdf)
+<br> \* Equal contribution / co-first author
 
-* C.R. Fetsch, N.N. Odean, D. Jeurissen, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. _eLife_,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D) (Similar to: _BioRxiv_, DOI:https://doi.org/10.1101/277251).
+* C.R. Fetsch, N.N. Odean, D. Jeurissen, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. **_eLife_**,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D) (Similar to: _BioRxiv_, DOI:https://doi.org/10.1101/277251).
 
-* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. _Scientific Reports_, 7(9082), 1-13. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Klink_ScientificReports.pdf)
+* P.C. Klink, D. Jeurissen, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. **_Scientific Reports_**, 7(9082), 1-13. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Klink_ScientificReports.pdf)
 
-* D. Vartak, D. Jeurissen, M.W. Self, and P.R. Roelfsema (2017). The influence of attention and reward on the learning of new stimulus-response associations. _Scientific Reports_, 7(9036), 1-12. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Vartak_ScientificReports.pdf)
+* D. Vartak, D. Jeurissen, M.W. Self, and P.R. Roelfsema (2017). The influence of attention and reward on the learning of new stimulus-response associations. **_Scientific Reports_**, 7(9036), 1-12. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2017_Vartak_ScientificReports.pdf)
 
-* D. Jeurissen, M.W. Self, and P.R. Roelfsema (2016). Serial grouping of 2D-image regions with object-based attention in humans. _eLife_,  5, e14320. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/content/5/e14320-download.pdf)
+* D. Jeurissen, M.W. Self, and P.R. Roelfsema (2016). Serial grouping of 2D-image regions with object-based attention in humans. **_eLife_**,  5, e14320. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/content/5/e14320-download.pdf)
 
-* M.W. Self\*, J.C. Peters\*, J.K. Possel\*, J. Reithler, R. Goebel, P. Ris, D. Jeurissen, L. Reddy, S. Claus, J.C. Baayen, and P.R. Roelfsema (2016). The effects of context and attention on spiking activity in human early visual cortex. _PLoS Biology_, 14(3), e1002420. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2016_Self_PlosBiology.pdf)
+* M.W. Self\*, J.C. Peters\*, J.K. Possel\*, J. Reithler, R. Goebel, P. Ris, D. Jeurissen, L. Reddy, S. Claus, J.C. Baayen, and P.R. Roelfsema (2016). The effects of context and attention on spiking activity in human early visual cortex. **_PLoS Biology_**, 14(3), e1002420. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2016_Self_PlosBiology.pdf) \* Equal contribution / co-first author
 
-* B. Rubio\*, A.D. Boes\*, S. Laganiere, A. Rotenberg, D. Jeurissen, and A. Pascual-Leone (2016). Noninvasive brain stimulation in pediatric attention-deficit hyperactivity disorder (ADHD): A review. _Journal of Child Neurology_, 31(6), 784-796. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2016_Rubio_JChildNeurology.pdf)
+* B. Rubio\*, A.D. Boes\*, S. Laganiere, A. Rotenberg, D. Jeurissen, and A. Pascual-Leone (2016). Noninvasive brain stimulation in pediatric attention-deficit hyperactivity disorder (ADHD): A review. **_Journal of Child Neurology_**, 31(6), 784-796. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2016_Rubio_JChildNeurology.pdf) \* Equal contribution / co-first author
 
-* D. Jeurissen, A.F. Van Ham, and M.W. Self (2015). The neural representation of multiple objects in the primate visual system. _Journal of Neuroscience_, 35(37), 12612-12614. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2015_Jeurissen_JNeurosc.pdf)
+* D. Jeurissen, A.F. Van Ham, and M.W. Self (2015). The neural representation of multiple objects in the primate visual system. **_Journal of Neuroscience_**, 35(37), 12612-12614. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2015_Jeurissen_JNeurosc.pdf)
 
-* D. Jeurissen, A.T. Sack, A. Roebroeck, B.E. Russ, and A. Pascual-Leone (2014). TMS affects moral judgment, showing the role of DLPFC and TPJ in cognitive and emotional processing. _Frontiers in Neuroscience_, 8, 1-9. <i class="fa fa-file-pdf-o"></i> [PDF](http://journal.frontiersin.org/article/10.3389/fnins.2014.00018/pdf)
+* D. Jeurissen, A.T. Sack, A. Roebroeck, B.E. Russ, and A. Pascual-Leone (2014). TMS affects moral judgment, showing the role of DLPFC and TPJ in cognitive and emotional processing. **_Frontiers in Neuroscience_**, 8, 1-9. <i class="fa fa-file-pdf-o"></i> [PDF](http://journal.frontiersin.org/article/10.3389/fnins.2014.00018/pdf)
 
-* D. Jeurissen, M.W. Self, and P.R. Roelfsema (2013). Surface reconstruction, figure-ground modulation, and border-ownership. _Cognitive Neuroscience_, 4(1), 50-52. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2013_JeurissenSelfRoelfsema_CognitiveNeuroscience.pdf)
+* D. Jeurissen, M.W. Self, and P.R. Roelfsema (2013). Surface reconstruction, figure-ground modulation, and border-ownership. **_Cognitive Neuroscience_**, 4(1), 50-52. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2013_JeurissenSelfRoelfsema_CognitiveNeuroscience.pdf)
 
-* I. Korjoukov, D. Jeurissen, N.A. Kloosterman, J.E. Verhoeven, H.S. Scholte, and P.R. Roelfsema (2012). The time-course of perceptual grouping in natural scenes. _Psychological Science_, 23(12), 1-8. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2012_KorjoukovJeurissenRoelfsema_PsychScience_complete.pdf)
+* I. Korjoukov, D. Jeurissen, N.A. Kloosterman, J.E. Verhoeven, H.S. Scholte, and P.R. Roelfsema (2012). The time-course of perceptual grouping in natural scenes. **_Psychological Science_**, 23(12), 1-8. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2012_KorjoukovJeurissenRoelfsema_PsychScience_complete.pdf)
 
 ---
 
