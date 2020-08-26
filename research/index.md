@@ -30,11 +30,7 @@ If a brain area can (temporarily) not provide useful information --- due to a st
 
 To answer this question, I use <i>optogenetic, chemogenetic, and pharmacological tools</i> to manipulate neural activity while monkeys perform complex decision making tasks. Optogenetic manipulation of neural activity changes the animal's choices, but, surprisingly, only transiently: behavioral effects fade away in tens of minutes, even though neural activity is still suppressed. This suggests that other neurons can adjust to compensate for lost functions.<br/><br/>
 
-<img
-  src="/images/Jaws.png"
-  alt="Fig2B eLife paper showing Jaws expression"
-  width="50%"
->
+<img src="/images/Jaws.png" alt="Fig2B eLife paper showing Jaws expression" width="50%">
 
 <br/>
 
@@ -53,29 +49,17 @@ My current research aims to reveal if the transient effect on behavior is a gene
 
 <br/>
 
-<img
-  src="/images/PerceptualGrouping.png"
-  alt="Perceptual grouping of natural image"
-  width="95%"
->
+<img src="/images/PerceptualGrouping.png" alt="Perceptual grouping of natural image" width="95%">
 
 <br/>
 
 Each cell in the retina responds to light from only a tiny fragment of a visual scene. The fragmented input from the retina to the rest of the visual system has to be transformed into a representation of objects in front of a background, a process termed <i>perceptual grouping</i>. My graduate work at the Netherlands Institute for Neuroscience focused on how the primate visual system can achieve perceptual grouping of complex objects.<br/><br/>
 
-<img
-  src="/images/NorU.png"
-  alt="Fig2A Curr Bio paper showing figure-ground modulation"
-  width="50%"
->
+<img src="/images/NorU.png" alt="Fig2A Curr Bio paper showing figure-ground modulation" width="50%">
 
 The fragment of the visual scene to which a cell responds is called its <i>receptive field</i>. Neurons in early visual areas show an increased response when their receptive field lies on a figure compared to on a background. This increased response is known as <i>figure-ground modulation</i>. My experiments revealed that <i>attention</i> and <i>learning</i> selectively change the <i>enhancement</i> and <i>suppression</i> on neural signals, and thereby change the figure-ground modulation of complex shapes.
 
-<img
-  src="/images/GrowthCones.png"
-  alt="Fig2C eLife paper showing growth-cone model"
-  width="50%"
->
+<img src="/images/GrowthCones.png" alt="Fig2C eLife paper showing growth-cone model" width="50%">
 
 The findings from my work in the macaque monkey are relevant for our understanding of the human visual system. In behavioral experiments with humans I showed that perceptual grouping is achieved by spreading object-based attention over the surface of an object. My neurocomputational <i>growth-cone model</i> --- which is inspired by the results from monkey electrophysiology --- accurately explains human behavior in a perceptual grouping task.
 
