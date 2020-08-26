@@ -1,12 +1,10 @@
 ---
 layout: page
-title:  
+title: Perceptual decision making
 excerpt: “Research”
 image:
   feature: Background.jpg
 ---
-
-## Perceptual decision making
 
 How can a brain area selectively process information from the neurons in distant areas that provide useful information while ignoring information from other areas?<br/><br/>
 
@@ -14,11 +12,7 @@ To answer this question, I developed a <i>double-decision making paradigm</i> in
 
 <br/>
 
-<img
-  src="/images/DoubleDecision.png"
-  alt="Double decision task"
-  width="50%"
->
+<img src="/images/DoubleDecision.png" alt="Double decision task" width="50%">
 
 <br/>
 
