@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Curriculum Vitae
-  url: /cv/
-
-#- title: Research
-#  url: /research/
+- title: Research
+  url: /research/
 
 - title: Publications
   url: /publications/
 
-- title: Research
-  url: /research/
+- title: Curriculum Vitae
+  url: /cv/
+
+- title: Join
+  url: /join/
 
 - title: Contact
   url: /contact/

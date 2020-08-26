@@ -6,20 +6,14 @@ image:
   feature: Background.jpg
 ---
 
-**Danique Jeurissen, PhD**
-
-Columbia University
-
-Department of Neuroscience
-
-Mail: c/o Shadlen lab
-
-Zuckerman Mind, Brain, and Behavior Institute
-
-Jerome L. Greene Science Center
-
-3227 Broadway, L5, Quad 5A
-
-New York, NY 10032
-
-Email: [d.jeurissen@columbia.edu](mailto:d.jeurissen@columbia.edu)
+**Danique Jeurissen, PhD**<br/>
+Howard Hughes Medical Institute<br/>
+Columbia University, Dept. of Neuroscience<br/>
+Zuckerman Mind, Brain, and Behavior Institute<br/><br/>
+Mail:<br/>
+c/o Shadlen lab<br/>
+Jerome L. Greene Science Center<br/>
+3227 Broadway, L5, Quad 5A<br/>
+New York, NY 10032<br/><br/>
+Email:<br/>
+[d.jeurissen@columbia.edu](mailto:d.jeurissen@columbia.edu)

@@ -1,9 +1,110 @@
 ---
 layout: page
-title: Flexible routing of information through specialized networks in the brain
+title:  
 excerpt: “Research”
 image:
   feature: Background.jpg
 ---
 
-I am fascinated by how our higher-cognitive functions are supported by the biology of our nervous system. My research focuses on how information flows through the different specialized networks in the brain and how information can be flexibly routed through different areas depending on task requirements. Specifically, I ask the question how information is passed between areas and how circuits are dynamically configured such that the same neuron (e.g., motor neuron) can be functionally connected to a different source of information (e.g., visually selective neuron). Such flexible communication allows the multiple specialized brain areas (e.g. motor and visual cortex) to connect on a global scale and leads to the high level of cognitive flexibility observed in primate behavior. Understanding how the flow of information can change in the healthy brain will lead to insights about the pathophysiology underlying maladaptive behavior (e.g. autism, attention deficit, and dementias characterized by perseveration) in which cognition is less flexible. I approach this question by combining computational modeling with behavioral experiments (incl. psychophysics), electrophysiology (incl. LFP, spikes), and causal manipulations (incl. optogenetics, pharmacology, and brain stimulation).
+## Perceptual decision making
+
+How can a brain area selectively process information from the neurons in distant areas that provide useful information while ignoring information from other areas?<br/><br/>
+
+To answer this question, I developed a <i>double-decision making paradigm</i> in which monkeys decide on the direction of <i>motion</i> as well as the <i>color</i> of a patch of dynamic dots. In the example below, motion is towards the right, and the dots are in majority yellow, so the monkey would respond by making an eye-movement to the right-yellow target. I study how neurons in parietal cortex can selectively process the motion and color information from distant specialized sensory areas.
+
+<br/>
+
+<img
+  src="/images/DoubleDecision.png"
+  alt="Double decision task"
+  width="50%"
+>
+
+<br/>
+
+I use single-unit recordings and [high-channel count](https://www.neuropixels.org/) electrophysiological measurements to study how information about the motion and color decisions get combined into a single choice at the level of individual neurons and large neuronal populations.
+
+#### Representative work
+
+* <u>D. Jeurissen</u>, Y.H.R. Kang, and M.N. Shadlen (2018). Serial integration of two sensory sources of information for a single perceptual decision. Poster presentation at the Simons Foundation annual meeting, September 5 - 7, 2018, New York, NY, USA.
+
+---
+
+## Causal manipulation of neural activity
+
+If a brain area can (temporarily) not provide useful information --- due to a stroke, a traumatic brain injury, or experimental manipulation --- can other brain areas then compensate for the lost function?<br/><br/>
+
+To answer this question, I use <i>optogenetic, chemogenetic, and pharmacological tools</i> to manipulate neural activity while monkeys perform complex decision making tasks. Optogenetic manipulation of neural activity changes the animal's choices, but, surprisingly, only transiently: behavioral effects fade away in tens of minutes, even though neural activity is still suppressed. This suggests that other neurons can adjust to compensate for lost functions.<br/><br/>
+
+<img
+  src="/images/Jaws.png"
+  alt="Fig2B eLife paper showing Jaws expression"
+  width="50%"
+>
+
+<br/>
+
+My current research aims to reveal if the transient effect on behavior is a general phenomenon that generalizes to other techniques, other brain areas, and other decision making tasks.
+
+
+#### Representative work
+
+* <u>D. Jeurissen</u>\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Deficits in decision making after pharmacological and chemogenetic inactivation of Area LIP. Poster at the Society for Neuroscience Meeting, October 19 – 23, Chicago, IL, USA. \* Equal contribution
+
+* C.R. Fetsch, N.N. Odean, <u>D. Jeurissen</u>, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. eLife,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D)
+
+---
+
+## Attention, learning, and object perception
+
+<br/>
+
+<img
+  src="/images/PerceptualGrouping.png"
+  alt="Perceptual grouping of natural image"
+  width="95%"
+>
+
+<br/>
+
+Each cell in the retina responds to light from only a tiny fragment of a visual scene. The fragmented input from the retina to the rest of the visual system has to be transformed into a representation of objects in front of a background, a process termed <i>perceptual grouping</i>. My graduate work at the Netherlands Institute for Neuroscience focused on how the primate visual system can achieve perceptual grouping of complex objects.<br/><br/>
+
+<img
+  src="/images/NorU.png"
+  alt="Fig2A Curr Bio paper showing figure-ground modulation"
+  width="50%"
+>
+
+The fragment of the visual scene to which a cell responds is called its <i>receptive field</i>. Neurons in early visual areas show an increased response when their receptive field lies on a figure compared to on a background. This increased response is known as <i>figure-ground modulation</i>. My experiments revealed that <i>attention</i> and <i>learning</i> selectively change the <i>enhancement</i> and <i>suppression</i> on neural signals, and thereby change the figure-ground modulation of complex shapes.
+
+<img
+  src="/images/GrowthCones.png"
+  alt="Fig2C eLife paper showing growth-cone model"
+  width="50%"
+>
+
+The findings from my work in the macaque monkey are relevant for our understanding of the human visual system. In behavioral experiments with humans I showed that perceptual grouping is achieved by spreading object-based attention over the surface of an object. My neurocomputational <i>growth-cone model</i> --- which is inspired by the results from monkey electrophysiology --- accurately explains human behavior in a perceptual grouping task.
+
+#### Representative work
+
+* M.W. Self\*, <u>D. Jeurissen</u>\*, A.F. van Ham, B. van Vugt, J. Poort, and P.R. Roelfsema (2019). The segmentation of proto-objects in the monkey primary visual cortex. Current Biology, 29, 1019-1029. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2019_SelfJeurissen_CurrBio.pdf) [Journal Club Slides (Google doc)](https://docs.google.com/presentation/d/1NP975PPtftqyhtHeBIvX3eqrt09Baosk2KnYj7ga-M8/edit?usp=sharing)
+<br> \* Equal contribution
+
+* <u>D. Jeurissen</u>, M.W. Self, and P.R. Roelfsema (2016). Serial grouping of 2D-image regions with object-based attention in humans. eLife,  5, e14320. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/content/5/e14320-download.pdf) [Journal Club Slides (Google doc)](https://docs.google.com/presentation/d/1P0uZVKC5OgPQ06t2YSn6-mA7p63dNiBeTSKkxvJFS8c/edit?usp=sharing)
+
+---
+
+## Collaborators
+
+* [Yasmine El-Shamayleh, Columbia University](http://www.yasmineshamayleh.com/)
+* [Chris Fetsch, Johns Hopkins University](https://www.fetschlab.org/)
+* [Greg Horwitz, University of Washington](http://faculty.washington.edu/ghorwitz/wordpress/)
+* [Doris Tsao, California Institute of Technology](https://www.tsaolab.caltech.edu/)
+* [Daniel Wolpert, Columbia University](https://wolpertlab.neuroscience.columbia.edu/)
+* [Ariel Zylberberg, University of Rochester](https://www.zylberberg.org/)
+
+---
+
+## Publications
+
+[Click here](/publications/) for a full list of my publications, including papers that are not highlighted on this page.
