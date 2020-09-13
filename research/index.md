@@ -8,7 +8,7 @@ image:
 
 How can a brain area selectively process information from the neurons in distant areas that provide useful information while ignoring information from other areas?<br/><br/>
 
-To answer this question, I developed a <i>double-decision making paradigm</i> in which monkeys decide on the direction of <i>motion</i> as well as the <i>color</i> of a patch of dynamic dots. In the example below, motion is towards the right, and the dots are in majority yellow, so the monkey would respond by making an eye-movement to the right-yellow target. I study how neurons in parietal cortex can selectively process the motion and color information from distant specialized sensory areas.
+To answer this question, we developed a <i>double-decision making paradigm</i> in which monkeys decide on the direction of <i>motion</i> as well as the <i>color</i> of a patch of dynamic dots. In the example below, motion is towards the right, and the dots are in majority yellow, so the monkey would respond by making an eye-movement to the right-yellow target. We study how neurons in parietal cortex can selectively process the motion and color information from distant specialized sensory areas.
 
 <br/>
 
@@ -16,7 +16,7 @@ To answer this question, I developed a <i>double-decision making paradigm</i> in
 
 <br/>
 
-I use single-unit recordings and [high-channel count](https://www.neuropixels.org/) electrophysiological measurements to study how information about the motion and color decisions get combined into a single choice at the level of individual neurons and large neuronal populations.
+We use single-unit recordings and [high-channel count](https://www.neuropixels.org/) electrophysiological measurements to study how information about the motion and color decisions get combined into a single choice at the level of individual neurons and large neuronal populations.
 
 #### Representative work
 
@@ -28,13 +28,13 @@ I use single-unit recordings and [high-channel count](https://www.neuropixels.or
 
 If a brain area can (temporarily) not provide useful information --- due to a stroke, a traumatic brain injury, or experimental manipulation --- can other brain areas then compensate for the lost function?<br/><br/>
 
-To answer this question, I use <i>optogenetic, chemogenetic, and pharmacological tools</i> to manipulate neural activity while monkeys perform complex decision making tasks. Optogenetic manipulation of neural activity changes the animal's choices, but, surprisingly, only transiently: behavioral effects fade away in tens of minutes, even though neural activity is still suppressed. This suggests that other neurons can adjust to compensate for lost functions.<br/><br/>
+To answer this question, we use <i>optogenetic, chemogenetic, and pharmacological tools</i> to manipulate neural activity while monkeys perform complex decision making tasks. Optogenetic manipulation of neural activity changes the animal's choices, but, surprisingly, only transiently: behavioral effects fade away in tens of minutes, even though neural activity is still suppressed. This suggests that other neurons can adjust to compensate for lost functions.<br/><br/>
 
 <img src="/images/Jaws.png" alt="Fig2B eLife paper showing Jaws expression" width="50%">
 
 <br/>
 
-My current research aims to reveal if the transient effect on behavior is a general phenomenon that generalizes to other techniques, other brain areas, and other decision making tasks.
+Our current research aims to reveal if the transient effect on behavior is a general phenomenon that generalizes to other techniques, other brain areas, and other decision making tasks.
 
 
 #### Representative work
@@ -57,11 +57,11 @@ Each cell in the retina responds to light from only a tiny fragment of a visual 
 
 <img src="/images/NorU.png" alt="Fig2A Curr Bio paper showing figure-ground modulation" width="50%">
 
-The fragment of the visual scene to which a cell responds is called its <i>receptive field</i>. Neurons in early visual areas show an increased response when their receptive field lies on a figure compared to on a background. This increased response is known as <i>figure-ground modulation</i>. My experiments revealed that <i>attention</i> and <i>learning</i> selectively change the <i>enhancement</i> and <i>suppression</i> on neural signals, and thereby change the figure-ground modulation of complex shapes.
+The fragment of the visual scene to which a cell responds is called its <i>receptive field</i>. Neurons in early visual areas show an increased response when their receptive field lies on a figure compared to on a background. This increased response is known as <i>figure-ground modulation</i>. Our experiments revealed that <i>attention</i> and <i>learning</i> selectively change the <i>enhancement</i> and <i>suppression</i> on neural signals, and thereby change the figure-ground modulation of complex shapes.
 
 <img src="/images/GrowthCones.png" alt="Fig2C eLife paper showing growth-cone model" width="50%">
 
-The findings from my work in the macaque monkey are relevant for our understanding of the human visual system. In behavioral experiments with humans I showed that perceptual grouping is achieved by spreading object-based attention over the surface of an object. My neurocomputational <i>growth-cone model</i> --- which is inspired by the results from monkey electrophysiology --- accurately explains human behavior in a perceptual grouping task.
+The findings from our work in the macaque monkey are relevant for our understanding of the human visual system. In behavioral experiments with humans we showed that perceptual grouping is achieved by spreading object-based attention over the surface of an object. Our neurocomputational <i>growth-cone model</i> --- which is inspired by the results from monkey electrophysiology --- accurately explains human behavior in a perceptual grouping task.
 
 #### Representative work
 
