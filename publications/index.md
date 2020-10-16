@@ -8,7 +8,7 @@ image:
 
 ## Preprints
 
-* Y.H.R. Kang**\***, A. Loffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2020). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1). Submitted for peer-review. 
+* Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2020). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1). Submitted for peer-review. 
 <br> **\*/^ Equal contribution**
 
 ---
