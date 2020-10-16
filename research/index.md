@@ -6,9 +6,9 @@ image:
   feature: Background.jpg
 ---
 
-How can a brain area selectively process information from the neurons in distant areas that provide useful information while ignoring information from other areas?<br/><br/>
+When we make daily-life decisions, we usually take into account multiple sources of information. For example, when deciding whether we would like to have chocolate or potato chips, we can consider the sweetness, saltiness, and crunchiness. How do we combine multiple sources of information into a single choice?<br/><br/>
 
-To answer this question, we developed a <i>double-decision making paradigm</i> in which monkeys decide on the direction of <i>motion</i> as well as the <i>color</i> of a patch of dynamic dots. In the example below, motion is towards the right, and the dots are in majority yellow, so the monkey would respond by making an eye-movement to the right-yellow target. We study how neurons in parietal cortex can selectively process the motion and color information from distant specialized sensory areas.
+To answer this question, we developed a <i>double-decision making paradigm</i> in which subjects decide on the direction of <i>motion</i> as well as the <i>color</i> of a patch of dynamic dots. In the example below, motion is towards the right, and the dots are in majority yellow, so the subject would respond by making an eye-movement to the right-yellow target. We find that the sensory motion and color information can be acquired in <i>parallel</i> by the visual system. However, subjects rely on a <i>serial</i> process to combine information about the two features into a single decision.  
 
 <br/>
 
@@ -16,9 +16,12 @@ To answer this question, we developed a <i>double-decision making paradigm</i> i
 
 <br/>
 
-We use single-unit recordings and [high-channel count](https://www.neuropixels.org/) electrophysiological measurements to study how information about the motion and color decisions get combined into a single choice at the level of individual neurons and large neuronal populations.
+We study how neurons in parietal cortex can selectively process the motion and color information from distant specialized sensory areas. We use single-unit recordings and [high-channel count](https://www.neuropixels.org/) electrophysiological measurements in monkeys to study how information about the motion and color decisions get combined into a single choice at the level of individual neurons and large neuronal populations.
 
 #### Representative work
+
+* Y.H.R. Kang\*, A. L&#246;ffler\*, <u>D. Jeurissen</u>\*, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2020). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1). Submitted for peer-review.
+<br> \*/^ Equal contribution
 
 * <u>D. Jeurissen</u>, Y.H.R. Kang, and M.N. Shadlen (2018). Serial integration of two sensory sources of information for a single perceptual decision. Poster presentation at the Simons Foundation annual meeting, September 5 - 7, 2018, New York, NY, USA.
 
@@ -39,7 +42,8 @@ Our current research aims to reveal if the transient effect on behavior is a gen
 
 #### Representative work
 
-* <u>D. Jeurissen</u>\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Deficits in decision making after pharmacological and chemogenetic inactivation of Area LIP. Poster at the Society for Neuroscience Meeting, October 19 – 23, Chicago, IL, USA. \* Equal contribution
+* <u>D. Jeurissen</u>\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Deficits in decision making after pharmacological and chemogenetic inactivation of Area LIP. Poster at the Society for Neuroscience Meeting, October 19 – 23, Chicago, IL, USA.
+<br> \* Equal contribution
 
 * C.R. Fetsch, N.N. Odean, <u>D. Jeurissen</u>, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. eLife,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D)
 
