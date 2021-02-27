@@ -8,7 +8,7 @@ image:
 
 ## Preprints
 
-* Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2020). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1). Submitted for peer-review. 
+* Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2020). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1). In revision. [Cosyne 2021 Presentation on YouTube](https://youtu.be/hlmezZErgd8).
 <br> **\*/^ Equal contribution**
 
 ---
@@ -42,13 +42,15 @@ image:
 
 ## Posters, talks, and abstracts (Presenting author only)
 
-* D. Jeurissen\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2019). Deficits in decision making after pharmacological and chemogenetic inactivation of Area LIP. Poster at the Howard Hughes Medical Institute Science Meeting, December 3 – 5, Chevy Chase, MD, USA. \* Equal contribution
+* D. Jeurissen\*, A. L&#246;ffler\*, Y.H.R. Kang\*, A. Zylberberg^, D.M. Wolpert^, and M.N. Shadlen^ (2021). Serial time-multiplexed incorporation of evidence to make two decisions about one object. Talk at the Virtual Cosyne 2021 Conference, February 24 - 26. \*/^ Equal contribution. [15 Minute talk available on YouTube](https://youtu.be/hlmezZErgd8).
+
+* D. Jeurissen\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Deficits in decision making after pharmacological and chemogenetic inactivation of Area LIP. Poster at the Howard Hughes Medical Institute Science Meeting, December 3 – 5, Chevy Chase, MD, USA. \* Equal contribution
 
 * D. Jeurissen\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Deficits in decision making after pharmacological and chemogenetic inactivation of Area LIP. Poster at the Society for Neuroscience Meeting, October 19 – 23, Chicago, IL, USA. \* Equal contribution
 
-* D. Jeurissen\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2019). Chemogenetic and pharmacological inactivation of parietal cortex during perceptual decision-making. Poster at the Columbia University Postdoctoral Symposium, October 4, New York, NY, USA. \* Equal contribution
+* D. Jeurissen\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Chemogenetic and pharmacological inactivation of parietal cortex during perceptual decision-making. Poster at the Columbia University Postdoctoral Symposium, October 4, New York, NY, USA. \* Equal contribution
 
-* D. Jeurissen\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2019). Deficits in decision making after Inactivation of Area LIP in the Macaque Monkey. Poster at the Simons Foundation SCGB Annual Meeting, September 8 – 10, New York, NY, USA. \* Equal contribution
+* D. Jeurissen\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Deficits in decision making after Inactivation of Area LIP in the Macaque Monkey. Poster at the Simons Foundation SCGB Annual Meeting, September 8 – 10, New York, NY, USA. \* Equal contribution
 
 * D. Jeurissen, Y.H.R. Kang, and M.N. Shadlen (2018). Serial integration of two sensory sources of information for a single perceptual decision. Poster presentation at the Simons Foundation annual meeting, September 5 - 7, 2018, New York, NY, USA.
 
