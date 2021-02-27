@@ -20,10 +20,11 @@ We study how neurons in parietal cortex can selectively process the motion and c
 
 #### Representative work
 
+* D. Jeurissen\*, A. L&#246;ffler\*, Y.H.R. Kang\*, A. Zylberberg^, D.M. Wolpert^, and M.N. Shadlen^ (2021). Serial time-multiplexed incorporation of evidence to make two decisions about one object. Talk at the Virtual Cosyne 2021 Conference, February 24 - 26. \*/^ Equal contribution. [15 Minute talk available on YouTube](https://youtu.be/hlmezZErgd8).
+
 * Y.H.R. Kang\*, A. L&#246;ffler\*, <u>D. Jeurissen</u>\*, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2020). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1). Submitted for peer-review.
 <br> \*/^ Equal contribution
 
-* <u>D. Jeurissen</u>, Y.H.R. Kang, and M.N. Shadlen (2018). Serial integration of two sensory sources of information for a single perceptual decision. Poster presentation at the Simons Foundation annual meeting, September 5 - 7, 2018, New York, NY, USA.
 
 ---
 
