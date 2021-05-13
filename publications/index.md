@@ -4,16 +4,13 @@ title: Publications
 excerpt: "Publications"
 image:
   feature: Background.jpg
----
-
-## Preprints
-
-* Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2020). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1). In revision. [Cosyne 2021 Presentation on YouTube](https://youtu.be/hlmezZErgd8).
-<br> **\*/^ Equal contribution**
 
 ---
 
 ## Journal publications
+
+* Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2021). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. eLife, 10, e63721. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1).) <i class="fa fa-file-pdf-o"></i> [PDF](papers/2021_KangLofflerJeurissen_eLife.pdf) [Journal Club Slides (Google doc)](https://docs.google.com/presentation/d/1C-pOKoxp6eshfWkr_SGmX9JafvB0Jfuu_RADzy_yX7U/edit?usp=sharing).
+<br> **\*/^ Equal contribution**
 
 * M.W. Self**\***, <u>D. Jeurissen</u>**\***, A.F. van Ham, B. van Vugt, J. Poort, and P.R. Roelfsema (2019). The segmentation of proto-objects in the monkey primary visual cortex. **Current Biology**, 29, 1019-1029. <i class="fa fa-file-pdf-o"></i> [PDF](papers/2019_SelfJeurissen_CurrBio.pdf) [Journal Club Slides (Google doc)](https://docs.google.com/presentation/d/1NP975PPtftqyhtHeBIvX3eqrt09Baosk2KnYj7ga-M8/edit?usp=sharing)
 <br> **\* Equal contribution**
