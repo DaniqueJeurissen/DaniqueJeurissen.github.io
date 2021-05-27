@@ -18,6 +18,10 @@ To answer this question, we developed a <i>double-decision making paradigm</i> i
 
 We study how neurons in parietal cortex can selectively process the motion and color information from distant specialized sensory areas. We use single-unit recordings and [high-channel count](https://www.neuropixels.org/) electrophysiological measurements in monkeys to study how information about the motion and color decisions get combined into a single choice at the level of individual neurons and large neuronal populations.
 
+#### Learn more
+
+[This 2 minute video](https://www.youtube.com/watch?v=K1LOm92KxUE) explains what we learned by studying the decisions of human participants.
+
 #### Representative work
 
 * <u>D. Jeurissen</u>\*, A. L&#246;ffler\*, Y.H.R. Kang\*, A. Zylberberg^, D.M. Wolpert^, and M.N. Shadlen^ (2021). Serial time-multiplexed incorporation of evidence to make two decisions about one object. Talk at the Virtual Cosyne 2021 Conference, February 24 - 26. \*/^ Equal contribution. [15 Minute talk available on YouTube](https://youtu.be/hlmezZErgd8).
