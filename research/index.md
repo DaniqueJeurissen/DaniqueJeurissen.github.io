@@ -36,19 +36,18 @@ We study how neurons in parietal cortex can selectively process the motion and c
 
 If a brain area can (temporarily) not provide useful information --- due to a stroke, a traumatic brain injury, or experimental manipulation --- can other brain areas then compensate for the lost function?<br/><br/>
 
-To answer this question, we use <i>optogenetic, chemogenetic, and pharmacological tools</i> to manipulate neural activity while monkeys perform complex decision making tasks. Optogenetic manipulation of neural activity changes the animal's choices, but, surprisingly, only transiently: behavioral effects fade away in tens of minutes, even though neural activity is still suppressed. This suggests that other neurons can adjust to compensate for lost functions.<br/><br/>
+To answer this question, we use <i>optogenetic, chemogenetic, and pharmacological tools</i> to manipulate neural activity while monkeys make complex decisions. Across three different tasks, and using any of the three inactivation techniques, we find that manipulation of neural activity changes the animal's choices. Surprisingly, the effects are only transient: behavioral effects fade away, even though neural activity is still suppressed. These results show that neurons in distant brain areas can compensate for lost functions.<br/><br/>
 
 <img src="/images/Jaws.png" alt="Fig2B eLife paper showing Jaws expression" width="50%">
 
 <br/>
 
-Our current research aims to reveal if the transient effect on behavior is a general phenomenon that generalizes to other techniques, other brain areas, and other decision making tasks.
+Our current research aims to reveal how neurons in distant brain areas change their activity pattern to compensate for the lost function of the inactivated region.
 
 
 #### Representative work
 
-* <u>D. Jeurissen</u>\*, S. Shushruth\*, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2019). Deficits in decision making after pharmacological and chemogenetic inactivation of Area LIP. Poster at the Society for Neuroscience Meeting, October 19 – 23, Chicago, IL, USA.
-<br> \* Equal contribution
+* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2021). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. **Under Review**, [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1). \* Equal contribution. <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1.full.pdf)
 
 * C.R. Fetsch, N.N. Odean, <u>D. Jeurissen</u>, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. eLife,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D)
 

@@ -6,7 +6,7 @@ image:
   feature: Background.jpg
 ---
 
-Our lab studies the neural basis of decision making in humans and macaques. If you are a student and you are interested in doing a research project in the lab, please contact me via [email](mailto:d.jeurissen@columbia.edu) to talk about the possibility of joining our lab. Please include your curriculum vitae and a description of the type of project you would be interested in. Some example projects are listed below.
+Our lab studies the neural basis of decision making in humans and macaques. If you are a student and you are interested in doing a research project in the lab, please contact me via [email](mailto:d.jeurissen@columbia.edu) to talk about the possibility of joining our lab. Please include your curriculum vitae and a description of the type of project you would be interested in. You can also apply if you have no prior research experience. Some example projects are listed below.
 
 #### Behavioral studies
 Experiments in our lab include behavioral experiments with healthy human participants and patients with Alzheimer's disease. Most behavioral experiments use a computer task to test how subjects make decisions. A student project could consist of developing a new task and collecting and analyzing data.
