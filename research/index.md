@@ -6,7 +6,7 @@ image:
   feature: Background.jpg
 ---
 
-When we make daily-life decisions, we usually take into account multiple sources of information. For example, when deciding whether we would like to have chocolate or potato chips, we can consider the sweetness, saltiness, and crunchiness. How do we combine multiple sources of information into a single choice?<br/><br/>
+When we make daily-life decisions, we can rely on any source of information. For example, when driving up to an intersection, we use information about the color of the traffic light to decide whether to cross. Just seconds later, we may use information about the motion of approaching cars to decide whether it is safe to make a left turn. How do we flexibly select a source of information for a choice?<br/><br/>
 
 To answer this question, we developed a <i>double-decision making paradigm</i> in which subjects decide on the direction of <i>motion</i> as well as the <i>color</i> of a patch of dynamic dots. In the example below, motion is towards the right, and the dots are in majority yellow, so the subject would respond by making an eye-movement to the right-yellow target. We find that the sensory motion and color information can be acquired in <i>parallel</i> by the visual system. However, subjects rely on a <i>serial</i> process to combine information about the two features into a single decision.  
 
@@ -47,7 +47,8 @@ Our current research aims to reveal how neurons in distant brain areas change th
 
 #### Representative work
 
-* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2021). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. **Under Review**, [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1). \* Equal contribution. <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1.full.pdf)
+* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. Neuron, in press. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1).) \* Equal contribution. <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1.full.pdf)
+
 
 * C.R. Fetsch, N.N. Odean, <u>D. Jeurissen</u>, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. eLife,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D)
 

@@ -7,13 +7,10 @@ image:
 
 ---
 
-## Preprints
-* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2021). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. **Under Review**, [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1). \* Equal contribution.
-<br> <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1.full.pdf)
-
----
-
 ## Journal publications
+
+* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. **Neuron**, in press. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1).) \* Equal contribution.
+<br> <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1.full.pdf)
 
 * Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2021). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. **eLife**, 10, e63721. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1).)
 <br> <i class="fa fa-file-pdf-o"></i> [PDF](papers/2021_KangLofflerJeurissen_eLife.pdf)
