@@ -7,12 +7,19 @@ image:
 
 ---
 
+## Preprints
+
+* G.M. Stine, E.M. Trautmann, <u>D. Jeurissen</u>, and M.N. Shadlen (2022). A neural mechanism for terminating decisions. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.02.490327v1).
+<br> <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2022.05.02.490327v1.full.pdf)
+
+---
+
 ## Journal publications
 
-* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. **Neuron**, in press. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1).) \* Equal contribution.
+* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. **Neuron**, in press. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1).) \* Equal contribution.
 <br> <i class="fa fa-file-pdf-o"></i> [PDF](https://www.cell.com/neuron/fulltext/S0896-6273(22)00258-6)
 
-* Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, M.N. Shadlen^ (2021). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. **eLife**, 10, e63721. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1).)
+* Y.H.R. Kang**\***, A. L&#246;ffler**\***, <u>D. Jeurissen</u>**\***, A. Zylberberg^, D.M. Wolpert^, and M.N. Shadlen^ (2021). Multiple decisions about one object involve parallel sensory acquisition but time-multiplexed evidence incorporation. **eLife**, 10, e63721. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.10.15.341008v1).)
 <br> <i class="fa fa-file-pdf-o"></i> [PDF](papers/2021_KangLofflerJeurissen_eLife.pdf)
 <br> [Journal Club Slides (Google doc)](https://docs.google.com/presentation/d/1C-pOKoxp6eshfWkr_SGmX9JafvB0Jfuu_RADzy_yX7U/edit?usp=sharing)
 <br> [2 Minute video about this research](https://www.youtube.com/watch?v=K1LOm92KxUE)
@@ -24,7 +31,7 @@ image:
 <br> [Journal Club Slides (Google doc)](https://docs.google.com/presentation/d/1NP975PPtftqyhtHeBIvX3eqrt09Baosk2KnYj7ga-M8/edit?usp=sharing)
 <br> **\* Equal contribution**
 
-* C.R. Fetsch, N.N. Odean, <u>D. Jeurissen</u>, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. **eLife**,  7, 36523. (Similar to: [BioRxiv](https://doi.org/10.1101/277251).)
+* C.R. Fetsch, N.N. Odean, <u>D. Jeurissen</u>, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. **eLife**,  7, 36523. (Similar to: [BioRxiv](https://doi.org/10.1101/277251).)
 <br> <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D)
 
 * P.C. Klink, <u>D. Jeurissen</u>, J. Theeuwes, D. Denys, and P.R. Roelfsema (2017). Working memory accuracy for multiple targets is driven by reward expectation and stimulus contrast with different time-courses. **Scientific Reports**, 7(9082), 1-13.
