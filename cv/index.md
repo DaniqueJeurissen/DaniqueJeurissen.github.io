@@ -54,7 +54,7 @@ _Degree:_ Bachelor of Science<br/><br/>
 
 ## Research Funding
 
-**05/2020 -	04/2022: Transition to Independence Fellowship**<br/>
+**2023 -	2026: Transition to Independence Fellowship**<br/>
 _Title:_ Compensation for cognitive deficits induced by cortical inactivation<br/>
 _Funding agency:_ Simons Foundation<br/>
 _Program:_ Simons Collaboration on the Global Brain<br/>
