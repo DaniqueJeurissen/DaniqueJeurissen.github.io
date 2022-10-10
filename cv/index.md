@@ -54,6 +54,13 @@ _Degree:_ Bachelor of Science<br/><br/>
 
 ## Research Funding
 
+**05/2020 -	04/2022: Transition to Independence Fellowship**<br/>
+_Title:_ Compensation for cognitive deficits induced by cortical inactivation<br/>
+_Funding agency:_ Simons Foundation<br/>
+_Program:_ Simons Collaboration on the Global Brain<br/>
+_PI:_ Danique Jeurissen<br/>
+_Amount:_ 495k$<br/>
+[_More info_](https://www.simonsfoundation.org/2022/07/15/seven-neuroscientists-awarded-transition-to-independence-fellowships-by-the-simons-collaboration-on-the-global-brain/)
 **05/2020 -	04/2022: R21**<br/>
 _Title:_ Characterizing the computational and neural basis of deficits in decision making in Alzheimer's disease<br/>
 _Funding agency:_ National Institute on Aging (NIA) of the National Institutes of Health (NIH)<br/>
