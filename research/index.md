@@ -47,7 +47,7 @@ Our current research aims to reveal how neurons in distant brain areas change th
 
 #### Representative work
 
-* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. Neuron, 110, 1-8. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1).) \* Equal contribution. <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1.full.pdf)
+* <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. Neuron, 110, 1-8. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1).) \* Equal contribution. <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1.full.pdf). [Data and code](https://github.com/DaniqueJeurissen/Jeurissen_Shushruth_etal_2022_Neuron). [Journal Club Slides (Google doc)](https://docs.google.com/presentation/d/1NzBTH811KLKN4W9_oWq8Xpaoa7kRjDnE2J0ttBCNAO0/edit?usp=sharing)
 
 
 * C.R. Fetsch, N.N. Odean, <u>D. Jeurissen</u>, Y. El-Shamayleh, G.D. Horwitz, M.N. Shadlen (2018). Focal optogenetic suppression in macaque area MT biases direction discrimination and choice confidence, but only transiently. eLife,  7, 36523. <i class="fa fa-file-pdf-o"></i> [PDF](https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzY1MjMvZWxpZmUtMzY1MjMtdjIucGRm/elife-36523-v2.pdf?_hash=IcM8Uw4KaAGU0FT9Uws4THeYryZBJhJcxCYFamXP618%3D)
@@ -86,6 +86,7 @@ The findings from our work in the macaque monkey are relevant for our understand
 * [Yasmine El-Shamayleh, Columbia University](http://www.yasmineshamayleh.com/)
 * [Chris Fetsch, Johns Hopkins University](https://www.fetschlab.org/)
 * [Greg Horwitz, University of Washington](http://faculty.washington.edu/ghorwitz/wordpress/)
+* [Shushruth, University of Pittsburgh](hhttps://www.shushruthlab.org/)
 * [Doris Tsao, California Institute of Technology](https://www.tsaolab.caltech.edu/)
 * [Daniel Wolpert, Columbia University](https://wolpertlab.neuroscience.columbia.edu/)
 * [Ariel Zylberberg, University of Rochester](https://www.zylberberg.org/)
