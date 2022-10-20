@@ -87,7 +87,7 @@ The findings from our work in the macaque monkey are relevant for our understand
 * [Chris Fetsch, Johns Hopkins University](https://www.fetschlab.org/)
 * [Greg Horwitz, University of Washington](http://faculty.washington.edu/ghorwitz/wordpress/)
 * [Shushruth, University of Pittsburgh](https://www.shushruthlab.org/)
-* [Doris Tsao, California Institute of Technology](https://www.tsaolab.caltech.edu/)
+* [Doris Tsao, UC Berkeley](https://www.tsaolab.caltech.edu/)
 * [Daniel Wolpert, Columbia University](https://wolpertlab.neuroscience.columbia.edu/)
 * [Ariel Zylberberg, University of Rochester](https://www.zylberberg.org/)
 
