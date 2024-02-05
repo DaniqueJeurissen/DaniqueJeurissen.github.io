@@ -59,7 +59,7 @@ _Title:_ Compensation for cognitive deficits induced by cortical inactivation<br
 _Funding agency:_ Simons Foundation<br/>
 _Program:_ Simons Collaboration on the Global Brain<br/>
 _PI:_ Danique Jeurissen<br/>
-_Amount:_ $495k<br/>
+_Amount:_ $760k<br/>
 [_More info_](https://www.simonsfoundation.org/2022/07/15/seven-neuroscientists-awarded-transition-to-independence-fellowships-by-the-simons-collaboration-on-the-global-brain/)<br/><br/>
 **05/2020 -	04/2022: R21**<br/>
 _Title:_ Characterizing the computational and neural basis of deficits in decision making in Alzheimer's disease<br/>
@@ -93,6 +93,7 @@ _Amount:_ $234k<br/>
 
 ## Prizes, Honors, & Awards
 
+* _2023:_ Intersections Science Fellows (ISFS) Associate<br>
 * _2016:_ Brain Award for Scientific Excellence, Netherlands Institute for Neuroscience, Royal Netherlands Academy of Arts and Sciences<br/>
 * _2014:_ Best oral presentation award, 21st annual meeting ONWAR graduate school<br/>
 * _2013:_ Best short oral presentation award, 20th annual meeting ONWAR graduate school<br/>

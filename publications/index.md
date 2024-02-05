@@ -5,16 +5,14 @@ excerpt: "Publications"
 image:
   feature: Background.jpg
 
----
-
-## Preprints
-
-* G.M. Stine, E.M. Trautmann, <u>D. Jeurissen</u>, and M.N. Shadlen (2022). A neural mechanism for terminating decisions. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.02.490327v1).
-<br> <i class="fa fa-file-pdf-o"></i> [PDF](https://www.biorxiv.org/content/10.1101/2022.05.02.490327v1.full.pdf)
 
 ---
 
 ## Journal publications
+
+* G.M. Stine, E.M. Trautmann, <u>D. Jeurissen</u>, and M.N. Shadlen (2022). A neural mechanism for terminating decisions. **Neuron**, 111, 2601-2613. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.02.490327v1)).
+<br> <i class="fa fa-file-pdf-o"></i> [PDF](https://www.jeurissenlab.com/s/2023_Stine_Neuron.pdf)
+<br> [Data and Code](https://zenodo.org/records/7946011)
 
 * <u>D. Jeurissen</u>**\***, S. Shushruth**\***, Y. El-Shamayleh, G.D. Horwitz, and M.N. Shadlen (2022). Deficits in decision-making induced by parietal cortex inactivation are compensated at two time scales. **Neuron**, 110, 1-8. (Similar to: [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.09.10.459856v1).) \* Equal contribution.
 <br> <i class="fa fa-file-pdf-o"></i> [PDF](https://www.cell.com/neuron/fulltext/S0896-6273(22)00258-6)
